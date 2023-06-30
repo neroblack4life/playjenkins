@@ -1,6 +1,6 @@
 pipeline {
 
-  agent { label 'mavenbuild-agent-01' }
+  agent { label 'mavenbuild-agent' }
 
   stages {
 
