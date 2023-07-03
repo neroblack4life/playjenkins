@@ -1,7 +1,7 @@
 pipeline {
 
   agent any
-  //{ label 'jenkins-inbound-agent-01' }
+  //{ label 'inbound-agent-01' }
 
   stages {
 
