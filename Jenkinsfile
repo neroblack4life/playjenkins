@@ -1,7 +1,7 @@
 pipeline {
 
   agent any
-  //{ label 'mavenbuild-agent' }
+  //{ label 'jenkins-inbound-agent-01' }
 
   stages {
 
