@@ -1,6 +1,6 @@
 pipeline {
 
-  agent { label 'inbound-agent-01' }
+  agent any
 
   stages {
 
